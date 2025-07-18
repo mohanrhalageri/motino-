@@ -1,0 +1,8 @@
+
+{
+  "name": "Motion Tracker AI",
+  "description": "An AI-powered application that uses your camera to identify moving objects and describe their movement in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
